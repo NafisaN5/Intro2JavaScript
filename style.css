@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: pink;
+}
+h1, h2, h3, h4, h5{
+  color:#c1575d;
+}
+button{
+  background-color: #c1575d;
+  color: white;
+  border: black;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  font-family:'Courier New', Courier, monospace;
+}
